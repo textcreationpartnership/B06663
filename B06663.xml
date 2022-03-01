@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An allarum from Heaven, or, A memento to the great councell, and magistrates of England, now sitting on the seat of justice. By G.W. a cordiall lover of the peace of England.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06663</idno>
+            <idno type="STC">Wing W3140</idno>
+            <idno type="STC">ESTC R206073</idno>
+            <idno type="EEBO-CITATION">52529121</idno>
+            <idno type="OCLC">ocm 52529121</idno>
+            <idno type="VID">179278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179278)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2782:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An allarum from Heaven, or, A memento to the great councell, and magistrates of England, now sitting on the seat of justice. By G.W. a cordiall lover of the peace of England.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Wharton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity and politics --  England --  Early works to 1800.</term>
+               <term>Justice, Administration of --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179278:1"/>
+            <pb facs="tcp:179278:1" rendition="simple:additions"/>
+            <head>AN ALLARUM FROM HEAVEN, <hi>OR, A</hi> MEMENTO <hi>TO</hi> The great Councell, and Magiſtrates of <hi>England,</hi> now ſitting on the Seat of Juſtice.</head>
+            <p>By <hi>G. W.</hi> a cordiall lover of the peace of <hi>England.</hi>
+            </p>
+            <q>
+               <bibl>Deut. 12.</bibl>
+               <p>You ſhall not do what ſeemeth good in your own eyes, but what the LORD hath commanded you for the good of His People.</p>
+            </q>
+            <q>
+               <bibl>Pſalm. 2.12.</bibl>
+               <p>Embrace the Son, least He be angry, and ſo you periſh from the right way.</p>
+            </q>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Wharton, MDCXLIX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179278:2"/>
+            <pb n="1" facs="tcp:179278:2"/>
+            <head>AN ALLARUM FROM HEAVEN <hi>OR,</hi> A <hi>Memento</hi> to the Magiſtrates of <hi>England,</hi> concerning their proceedings in Juſtice and Government.</head>
+            <opener>
+               <salute>Endeared Country-men of England,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is the ſaying of the divine Pſalmiſt and many other excellent Authors doe avouch it, That no Power, Potentate, nor Councell, who are elected as Repreſentatives of the people, for the Government of a Nation, can rule or go<g ref="char:EOLhyphen"/>vern rightly, that loveth not to judge which and that they betray their truſt and uſurpe a power, which pealeth partially: For we muſt remember, that they mea<g ref="char:EOLhyphen"/>ſured <hi>Salomons</hi> worthineſſe to reign, by his well ſwaying of the Scepter; the which, <hi>Salomon</hi> could not have handled
+<pb n="2" facs="tcp:179278:3"/>ſo well as he did, if he had not been carryed away with an earneſt deſire to deal indiferently, and to judge impartially, as appeareth in the moſt excellent demonſtration and prayer, which tranſcended from him, unto the Almighty Jehovah of Heaven, when he ſaith, <hi>Give vnto thy ſervant, O Lord an underſtanding and a wiſe heart, to judge thy peo<g ref="char:EOLhyphen"/>ple, that I may diſcern betwixt good and evill,</hi> 2 King. 3. And when he had prayed for wiſdome and underſtanding, hee ſheweth whereunto he would apply thoſe good guifts of God, even unto the glory of him that gave them, <hi>To judge the people, that I may diſcern betwixt good and evill</hi> ſaith he) Prov. 8.15. for by him Kings reign, and by him Magiſtrates decree Juſtice; which, that it may be duly executed within the Territories of our Engliſh Nation, let the people make choiſe of ſuch faithfull patriots, as are here preſcribed and ſet down in this enſuing parable of <hi>Jethro, viz.</hi>
+            </p>
+            <p>When <hi>Jethro</hi> the Father in law of <hi>Moſes</hi> came out of the Land <hi>Midian</hi> to ſee him, being at the Mount of God, which was <hi>Mount Sinai,</hi> and beheld how the people cryed to <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> (their Governour) for Judgment and Juſtice by due con<g ref="char:EOLhyphen"/>ſideration thereof, <hi>Jethro</hi> found theſe three inconveniencies, <hi>viz.</hi>
+            </p>
+            <p>Firſt, That <hi>Moſes</hi> wearied himſelf with (ſitting in judge<g ref="char:EOLhyphen"/>ment from morning to night.</p>
+            <p>Secondly, That he was too tedious unto the people, which attended upon him in all that time.</p>
+            <p>And thirdly, that notwithſtanding his carefulneſſe in judg<g ref="char:EOLhyphen"/>ment, and their earneſt expectation of Juſtice, he was not able to diſpatch ſo many matters as were brought before him, but with a ſlight hearing, and little regarding of many mens cauſes.</p>
+            <p>Wherefore, <hi>Jethro</hi> being a man very deſirous that Juſtice might proceed, that no mens matters might be ſlightly ſlipt
+<pb n="3" facs="tcp:179278:3"/>over, counſelled <hi>Moſes</hi> to make more Magiſtrates and Ru<g ref="char:EOLhyphen"/>lers in <hi>Iſrael;</hi> and to the end, that this might with more fa<g ref="char:EOLhyphen"/>cile be proſecuted, <hi>Jethro</hi> preſcribes a way, and points at the diſpoſition of thoſe men which ſhould bear Rule: For (ſaith he) <hi>Thou ſhalt chuſe out amongst all the people, men of courage, dealing truly, ſerving God, and hating covetouſneſſe, and them ſhalt thou make Governours over the people,</hi> Exod. 18 21.</p>
+            <p>Even ſuch Magiſtrates and Rulers doth the Common-wealth of <hi>England</hi> ſtand in need of, whoſe Government de<g ref="char:EOLhyphen"/>ſireth men of courage, faithfulneſſe, and impartiality; and ſeeing that her Governours are nominated and appointed, and a Rule is ſet down for the people to walke by, God grant, that they may follow the example of <hi>Jethro,</hi> to deale truly, act juſtly, execute impartially, and redreſſe the grie<g ref="char:EOLhyphen"/>vances of the people, and not to rule as the Councel of <hi>Ma<g ref="char:EOLhyphen"/>cedonia</hi> did, who upon the humble addreſſe and repreſenta<g ref="char:EOLhyphen"/>tion of a poor Widow, purporting her ſad and deplorable condition, they rejected her, and caſt her off with this ſlen<g ref="char:EOLhyphen"/>der anſwer, <hi>Go thy way, for we have no leiſure to heare thee now.</hi>
+            </p>
+            <p>The woman being much grieved thereat, replyed thus; <hi>Thus why have you lieſure to be Rulers and Magiſtrates.</hi>
+            </p>
+            <p>And therefore, if the Councel of <hi>England,</hi> proceed and continue in their wayes of impartiallity, acting juſtly, and deteſting all by ends, and ſelf-intereſts, this Nation wil have cauſe to rejoyce; if they deſiſt from ſo doing, her joy and tranquility will be fruſtrated and eclipſed.</p>
+            <p>O remember what God ſaid unto <hi>Iſrael, You ſhall not doe what ſeemeth good in your own eyes, but what I command you to do,</hi> ſaith the Lord.</p>
+            <p>Then know, that you do not that which he hath comman<g ref="char:EOLhyphen"/>ded, if you deal not with mercy and truth, by judging every
+<pb n="4" facs="tcp:179278:4"/>mans cauſe aright. It was a worthy commendation, that <hi>Da<g ref="char:EOLhyphen"/>vid</hi> uttered in the praiſe of <hi>Ieruſalem,</hi> when he ſaid, <hi>There is the Seat for judgment,</hi> the which appointing of that Seat for Judgment, was an argument, that they loved the true execu<g ref="char:EOLhyphen"/>ting of Juſtice.</p>
+            <p>And firſt, the place where it was ſet aſſureth us hereof, for it was ſet in the Gate, where through men might have paſſage to and from the Judgment Seat.</p>
+            <p>Secondly, the manner of framing the Seat in the Gate; namely, that the Judges and Councell might ſit with their faces towards the riſing of the Sun, in token that their judg<g ref="char:EOLhyphen"/>ment ſhould be as pure from corruption, as the Sun was cleer in his chiefeſt brightneſſe and ſplendor.</p>
+            <p>O happy Common wealth of <hi>England,</hi> art thou, who can ſay with <hi>Jeruſalem,</hi> that thy Juſtice Seat is not putrified with corruption.</p>
+            <p>And whereas God ſtandeth in the Parliaments of Princes, ſo is he a Judge amongſt Gods, to give all Magiſtrates a <hi>Memento,</hi> that God is preſent in all their aſſemblies, and judgeth them that judge under him, whereof they had need to be put in mind: for oftentimes <hi>Micheas</hi> proveth too true a prophet, in ſaying that the great man will ſeek what his heart deſireth, and the people muſt allow it well: of the which ſort of men, the very beſt is but a thiſtle, which a man can hardly touch unpricked, and the moſt juſt like a bramble, whereunto the ſilly ſheep ſeeking to be ſhrowded from ſharp ſhowers, is often forced to leave his fleece be<g ref="char:EOLhyphen"/>hind: whoſe unworthy coming to their places, <hi>Jon ham</hi> hath well deſcribed in the perſon of <hi>Abimelich,</hi> when hee ſaid, The trees of the wood went to annoint a King over them, and ſaid unto the Olive tree, raign thou over Us: but the Olive tree anſwered, ſhall I leave my fatneſſe, which both God and Men praiſe in me, and go to be promoted o<g ref="char:EOLhyphen"/>ver
+<pb n="5" facs="tcp:179278:4"/>the trees? Then they came to the Fig tree, and ſaid, Come thou and reign over us: the fig tree anſwered, ſhall I leave my ſweetneſſe and good fruit, and go to be promo<g ref="char:EOLhyphen"/>ted over the trees? They ſaid unto the Vane, reigne thou o<g ref="char:EOLhyphen"/>ver us: but the Vine anſwered, ſhould I leave the Wine wherewith I chear the Sons of men, to be promoted over the trees? Then they ſaid unto the Bramble, wilt thou reign over us? Then ſaid the Bramble, if it be true indeed that you will ſubmit your ſelves to my authority, and put your truſt under my ſhadow; or elſe, fire proceed from the Bram<g ref="char:EOLhyphen"/>ble and conſume you.</p>
+            <p>By this Parable we are taught generally, that every man is to be content with that eſtate wherein God hath placed him, and that for the moſt part the very beſt-worthy do re<g ref="char:EOLhyphen"/>fuſe proffered promotion, and on their part well deſerved: whereas on the contrary, the moſt unfitly furniſhed with Juſtice and true Judgment, and the leaſt deſerving in a <hi>com<g ref="char:EOLhyphen"/>mon-wealth,</hi> are of all other moſt ambitions.</p>
+            <p>And it is to be feared, that many will riſe through their wicked practiſes, and ſubtil ſtratagems, both in this Nation, and parts adjacent, to diſturbe the peace of our <hi>Iſraell;</hi> But God grant that they prove not like to thoſe, whom <hi>Zepha<g ref="char:EOLhyphen"/>niah,</hi> feared not to liken to <hi>Lyons</hi> and <hi>Wolves,</hi> who finding their proy in the evening, chop up all, not leaving ſo much as the bones untill the morning.</p>
+            <p>Another <hi>Memento</hi> is, That the civill Magiſtrate who bea<g ref="char:EOLhyphen"/>reth the ſword is called the Miniſter of God, as well as the ſpirituall Magiſtrate that teacheth the Word: and that no doubt, to the intent he might take care to maintain true Re<g ref="char:EOLhyphen"/>ligion as to miniſter deſerved Diſcipline. For it ſtandeth with all divine and humane reaſon, that if all maſters and
+<pb n="6" facs="tcp:179278:5"/>fathers ought to have a more then ordinary care to inſtruct and help forward their families in Chriſtian Religion, ſo much as in them lieth: much more ought the Magiſtrate to mediate by all meanes proſſible to perform his duty therein, who is a father over all families. I cannot ſet this forth in any plainer demonſtration, than <hi>David</hi> hath done in this ſhort ſaying, <hi>Embrace the ſon, leaſt he be angry, and ſo you pe<g ref="char:EOLhyphen"/>riſh from the right way.</hi> By which ſpeech the Prophet tea<g ref="char:EOLhyphen"/>cheth, that God cannot be honoured by any other meanes, than by that which Chriſt his Son hath taught, and that if you worſhip not the Son as he hath commanded, then you diſhonour him; if you diſhonour him, then you anger him; if you anger him, he caſteth you off; if he caſteth you off, then you are from the right way; and if you are from the right way, then you periſh. For the avoiding whereof, all Godly Magitrates have had a ſpeciall care to meditate in the Law of the Lord: ſuch were <hi>Moſes Ioſua, David, Salo<g ref="char:EOLhyphen"/>mon,</hi> and others. Of whoſe good example, God grant, that the Magiſtrates of <hi>England</hi> may make uſe thereof.</p>
+            <closer>
+               <salute>Vale,</salute> 
+               <signed>G. W.</signed>
+            </closer>
+            <postscript>
+               <p>Imprimatur,</p>
+               <closer>
+                  <signed>Theo: Jennings.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179278:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
